@@ -53,10 +53,10 @@ The implemented login is a beta version that offers low security since the passw
   
 <!-- SCREENSHOTS -->
 ## Screenshots.
-![](https://github.com/DamianPyCoder/App_WhaleShark_withKotlin/blob/main/screenshots/1_login_empty30.jpg)
-![](https://github.com/DamianPyCoder/App_WhaleShark_withKotlin/blob/main/screenshots/3_profile30.jpg)
-![](https://github.com/DamianPyCoder/App_WhaleShark_withKotlin/blob/main/screenshots/5_logbook_addDive30.jpg)
-![](https://github.com/DamianPyCoder/App_WhaleShark_withKotlin/blob/main/screenshots/7_logbook_deleteOne30.jpg)
+![](https://github.com/DamianPyCoder/Apps_with_Kotlin_and_Java/blob/main/DIVE_LOGBOOK/Screenshots/1_login_empty30.jpg)
+![](https://github.com/DamianPyCoder/Apps_with_Kotlin_and_Java/blob/main/DIVE_LOGBOOK/Screenshots/3_profile30.jpg)
+![](https://github.com/DamianPyCoder/Apps_with_Kotlin_and_Java/blob/main/DIVE_LOGBOOK/Screenshots/5_logbook_addDive30.jpg)
+![](https://github.com/DamianPyCoder/Apps_with_Kotlin_and_Java/blob/main/DIVE_LOGBOOK/Screenshots/7_logbook_deleteOne30.jpg)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -89,21 +89,21 @@ The implemented login is a beta version that offers low security since the passw
 ## UX/UI.
 
 #### Typography ROBOTTO. [Dafont](https://www.dafont.com/es/)
-![](https://github.com/DamianPyCoder/App_WhaleShark_withKotlin/blob/main/assets/Roboto.webp)
+![](https://github.com/DamianPyCoder/Apps_with_Kotlin_and_Java/blob/main/DIVE_LOGBOOK/Assets/Roboto.webp)
 
 #### Color Palette.
 
-![](https://github.com/DamianPyCoder/App_WhaleShark_withKotlin/blob/main/assets/color_003060.png)
-![](https://github.com/DamianPyCoder/App_WhaleShark_withKotlin/blob/main/assets/color_055c9d.png)
-![](https://github.com/DamianPyCoder/App_WhaleShark_withKotlin/blob/main/assets/color_68bbe3.png)
-![](https://github.com/DamianPyCoder/App_WhaleShark_withKotlin/blob/main/assets/color_68bbe3.png)
-![](https://github.com/DamianPyCoder/App_WhaleShark_withKotlin/blob/main/assets/color_cfcfcf.png)
-![](https://github.com/DamianPyCoder/App_WhaleShark_withKotlin/blob/main/assets/color_d5d5d5.png)
+![](https://github.com/DamianPyCoder/Apps_with_Kotlin_and_Java/blob/main/DIVE_LOGBOOK/Assets/color_003060.png)
+![](https://github.com/DamianPyCoder/Apps_with_Kotlin_and_Java/blob/main/DIVE_LOGBOOK/Assets/color_055c9d.png)
+![](https://github.com/DamianPyCoder/Apps_with_Kotlin_and_Java/blob/main/DIVE_LOGBOOK/Assets/color_68bbe3.png)
+![](https://github.com/DamianPyCoder/Apps_with_Kotlin_and_Java/blob/main/DIVE_LOGBOOK/Assets/color_68bbe3.png)
+![](https://github.com/DamianPyCoder/Apps_with_Kotlin_and_Java/blob/main/DIVE_LOGBOOK/Assets/color_cfcfcf.png)
+![](https://github.com/DamianPyCoder/Apps_with_Kotlin_and_Java/blob/main/DIVE_LOGBOOK/Assets/color_d5d5d5.png)
 
 
 #### Icon.
 
-![](https://github.com/DamianPyCoder/App_WhaleShark_withKotlin/blob/main/assets/icono.png)
+![](https://github.com/DamianPyCoder/Apps_with_Kotlin_and_Java/blob/main/DIVE_LOGBOOK/Assets/icono.png)
 
 Autor: [Fasi](https://freeicons.io/profile/722).
 
