@@ -1,11 +1,10 @@
 #
 # CALCULATOR WITH GLASSMORPHISM
 ## Blue
-![](https://github.com/DamianPyCoder/Apps_in_Glassmorphism_Neomorphism_Greyphism/blob/main/Screenshots/1g.png)
-![](https://github.com/DamianPyCoder/App_in_Glassmorphism_Neomorphism_Greyphism/blob/main/Screenshots/g2.png)
-
+![](https://github.com/DamianPyCoder/Apps_with_KOTLIN_or_JAVA/blob/main/CALCULATOR_GLASSMORPHISM/screenshots/g1.png)
+![](https://github.com/DamianPyCoder/Apps_with_KOTLIN_or_JAVA/blob/main/CALCULATOR_GLASSMORPHISM/screenshots/g2.png)
 
 ## Black
-![](https://github.com/DamianPyCoder/App_in_Glassmorphism_Neomorphism_Greyphism/blob/main/Screenshots/g5.png)
-![](https://github.com/DamianPyCoder/App_in_Glassmorphism_Neomorphism_Greyphism/blob/main/Screenshots/g6.png)
-
+![](https://github.com/DamianPyCoder/Apps_with_KOTLIN_or_JAVA/blob/main/CALCULATOR_GLASSMORPHISM/screenshots/g4.png)
+![](https://github.com/DamianPyCoder/Apps_with_KOTLIN_or_JAVA/blob/main/CALCULATOR_GLASSMORPHISM/screenshots/g5.png)
+![](https://github.com/DamianPyCoder/Apps_with_KOTLIN_or_JAVA/blob/main/CALCULATOR_GLASSMORPHISM/screenshots/g6.png)
